@@ -35,7 +35,7 @@ Here is a full example [`descriptor.xml`](http://wiki.karotz.com/index.php/Descr
 
 __Note that the Upload Code facility doesn't accept gzip format archivs, only__
 __standard zip format archives.__ The simplest way to create such an archive is
-to right-click `descriptor.xml` in Windows Exloperer and "Sent to ..." a
+to right-click `descriptor.xml` in Windows Explorer and "Sent to ..." a
 "Compressed (zipped) folder". The `descriptor.xml` should be placed in the root
 of the zip.
 
