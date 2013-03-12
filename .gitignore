@@ -3,4 +3,6 @@ work/
 .hibernateSynchronizer
 .DS_Store
 org/miquelmartin/
-
+.classpath
+.project
+.settings
