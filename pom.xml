@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>karotz</artifactId>
-    <version>0.3-SNAPSHOT</version>
+    <version>0.4</version>
     <packaging>hpi</packaging>
     <name>Jenkins Karotz plugin</name>
     <description>Publish build results to your Karotz</description>
@@ -20,7 +20,12 @@
             <name>Seiji Sogabe</name>
             <email>s.sogabe@gmail.com</email>
         </developer>
-    </developers>
+        <developer>
+            <id>axiomsofchoice</id>
+            <name>Dan Hagon</name>
+            <email>axiomsofchoice@gmail.com</email>
+        </developer>
+        </developers>
 
     <scm>
         <connection>scm:git:git://github.com/jenkinsci/karotz-plugin.git</connection>
